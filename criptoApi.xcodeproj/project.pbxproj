@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F2879D2282A0C6200F72D53 /* CriptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2879D1282A0C6200F72D53 /* CriptoTableViewCell.swift */; };
 		9F7C0A2E2828B91200BA9752 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7C0A2D2828B91200BA9752 /* AppDelegate.swift */; };
 		9F7C0A302828B91200BA9752 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7C0A2F2828B91200BA9752 /* SceneDelegate.swift */; };
 		9F7C0A322828B91200BA9752 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7C0A312828B91200BA9752 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F2879D1282A0C6200F72D53 /* CriptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CriptoTableViewCell.swift; sourceTree = "<group>"; };
 		9F7C0A2A2828B91200BA9752 /* criptoApi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = criptoApi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F7C0A2D2828B91200BA9752 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F7C0A2F2828B91200BA9752 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				9F7C0A2F2828B91200BA9752 /* SceneDelegate.swift */,
 				9F7C0A312828B91200BA9752 /* ViewController.swift */,
 				9F7C0A332828B91200BA9752 /* Main.storyboard */,
+				9F2879D1282A0C6200F72D53 /* CriptoTableViewCell.swift */,
 				9F7C0A362828B91300BA9752 /* Assets.xcassets */,
 				9F7C0A382828B91300BA9752 /* LaunchScreen.storyboard */,
 				9F7C0A3B2828B91300BA9752 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F2879D2282A0C6200F72D53 /* CriptoTableViewCell.swift in Sources */,
 				9F7C0A322828B91200BA9752 /* ViewController.swift in Sources */,
 				9F7C0A2E2828B91200BA9752 /* AppDelegate.swift in Sources */,
 				9F7C0A302828B91200BA9752 /* SceneDelegate.swift in Sources */,
